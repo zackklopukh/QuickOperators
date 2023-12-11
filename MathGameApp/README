@@ -1,0 +1,17 @@
+Zack Klopukh
+Dec 11. 2023
+CPSC 357 Final Project
+
+Math Game App, or "Quick Operations" is an app programmed by Zack Klopukh.
+
+This app functions as a way for students and adults alike to practice their math skill.
+The app comes with ranging difficulties, from eaasy to hard, and makes users practice through
+the disguise of a game.
+
+This app has many views, inclusing a main Content View (Main Menu), A Gameplay View containing 4 views in itself (OrganizationView, CoundownView, GameScreen, FinalScoreView), and Options View and a How to Play View.
+
+This program is fully working, but it should be noted the sound features may or my not be functional, I cannot tell due to an issue with my XCode.
+
+Some of this work was inspired by tutorials, but everything was coded by me.
+
+Enjoy.
