@@ -15,6 +15,8 @@ This app has many views, including a main Content View (Main Menu), A Gameplay V
 
 This program is fully working, but it should be noted the sound features may or may not be functional, I cannot tell because of an issue with my XCode.
 
+I spent awhile working on flashing colors but ended up removing all the code. It didn't work as I  had hoped and made it harder to complete the gameplay.
+
 Tutorials inspired some of this work, but everything was coded by me.
 
 Enjoy.
