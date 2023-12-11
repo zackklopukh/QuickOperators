@@ -90,7 +90,7 @@ struct Game {
                 var randomNum: Int
                 repeat {
                     randomNum = Int.random(in: max(1, (num1+num2+num3 - 10))...(num1+num2+num3 + 10))
-                } while randomNum == num1+num2 || possibleAnswers.contains(randomNum)
+                } while randomNum == num1+num2+num3 || possibleAnswers.contains(randomNum)
                 possibleAnswers.append(randomNum)
             }
             
